@@ -46,11 +46,12 @@ A comprehensive machine learning project exploring regression and classification
 
 ## 📊 Results — Assignment Progression
 
+
 |Metric|Assignment 2|Assignment 3|Improvement|
 |---|---|---|---|
 |**Best Test R²**|0.1232|**0.9471**|+0.8239 ✅|
-|**Best Test RMSE**|7.3587|**7.4438**|—|
 |**Classification Accuracy**|0.8106|**0.8513**|+0.0407 ✅|
+
 
 > The dramatic R² improvement (0.12 → 0.95) reflects the impact of proper feature engineering, regularization, and model selection across the project pipeline.
 
@@ -68,10 +69,9 @@ A comprehensive machine learning project exploring regression and classification
 ├── data/
 │   ├── car_price_v3.csv
 │   └── Fifa.csv
-└── notebook/
-     ├── Assignment_2/
-     └── Assignment_3/
-
+├── notebook/
+│   └── ML_2projects.ipynb
+└── README.md
 ```
 
 ---
